@@ -1,7 +1,7 @@
 Name: kde-wallpapers
 Summary: KDE 4 application workspace components
-Version: 4.6.90
-Release: %mkrel 1
+Version: 4.7.41
+Release: 1
 Epoch: 2
 Group: Graphical desktop/KDE
 License: LGPLv3
