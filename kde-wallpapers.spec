@@ -7,6 +7,7 @@ Group: Graphical desktop/KDE
 License: LGPLv3
 Source: ftp://ftp.kde.org/pub/kde/stable/%version/src/%name-%version.tar.bz2
 BuildRequires: kdelibs4-devel >= 2:%{version}
+BuildRequires: automoc4
 
 Conflicts:   kdebase4-workspace < 2:4.6.90
  
