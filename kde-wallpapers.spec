@@ -1,6 +1,6 @@
 Name: kde-wallpapers
 Summary: KDE 4 application workspace components
-Version: 4.8.3
+Version: 4.8.4
 Release: 1
 Epoch: 2
 Group: Graphical desktop/KDE
