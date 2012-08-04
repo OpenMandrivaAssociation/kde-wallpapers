@@ -1,11 +1,11 @@
 Name:		kde-wallpapers
 Summary:	Additional official wallpapers for KDE 4
-Version:	4.8.97
-Release:	1
+Version: 4.9.0
+Release: 1
 Epoch:		2
 Group:		Graphical desktop/KDE
 License:	LGPLv3
-Source:		ftp://ftp.kde.org/pub/kde/unstable/%{version}/src/%{name}-%{version}.tar.xz
+Source:		ftp://ftp.kde.org/pub/kde/stable/%{version}/src/%{name}-%{version}.tar.xz
 BuildRequires:	kdelibs4-devel
 BuildRequires:	automoc4
 Conflicts:	kdebase4-workspace < 2:4.6.90
