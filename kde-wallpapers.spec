@@ -1,6 +1,6 @@
 Summary:	Additional official wallpapers for KDE4
 Name:		kde-wallpapers
-Version:	4.14.1
+Version:	4.14.2
 Release:	1
 Epoch:		2
 Group:		Graphical desktop/KDE
@@ -32,6 +32,9 @@ This package contains additional official wallpapers for KDE4.
 %makeinstall_std -C build
 
 %changelog
+* Wed Oct 15 2014 Andrey Bondrov <andrey.bondrov@rosalab.ru> 2:4.14.2-1
+- New version 4.14.2
+
 * Mon Sep 29 2014 Andrey Bondrov <andrey.bondrov@rosalab.ru> 2:4.14.1-1
 - New version 4.14.1
 
