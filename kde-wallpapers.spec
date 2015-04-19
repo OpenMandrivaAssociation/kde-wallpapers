@@ -1,7 +1,7 @@
 Summary:	Additional official wallpapers for KDE4
 Name:		kde-wallpapers
-Version:	4.14.3
-Release:	2
+Version:	15.04.0
+Release:	1
 Epoch:		2
 Group:		Graphical desktop/KDE
 License:	LGPLv3
