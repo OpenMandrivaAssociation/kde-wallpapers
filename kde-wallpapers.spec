@@ -6,7 +6,7 @@ Epoch:		2
 Group:		Graphical desktop/KDE
 License:	LGPLv3
 Url:		http://www.kde.org/
-Source:		ftp://ftp.kde.org/pub/kde/stable/%{version}/src/%{name}-%{version}.tar.xz
+Source:		http://download.kde.org/stable/applications/%{version}/src/%{name}-%{version}.tar.xz
 BuildRequires:	kdelibs-devel
 BuildRequires:	automoc4
 Conflicts:	kdebase4-workspace < 2:4.6.90
