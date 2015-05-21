@@ -1,13 +1,13 @@
 Summary:	Additional official wallpapers for KDE4
 Name:		kde-wallpapers
-Version:	15.04.0
+Version:	15.04.1
 Release:	1
 Epoch:		2
 Group:		Graphical desktop/KDE
 License:	LGPLv3
 Url:		http://www.kde.org/
 Source:		ftp://ftp.kde.org/pub/kde/stable/%{version}/src/%{name}-%{version}.tar.xz
-BuildRequires:	kdelibs4-devel
+BuildRequires:	kdelibs-devel
 BuildRequires:	automoc4
 Conflicts:	kdebase4-workspace < 2:4.6.90
 BuildArch:	noarch
