@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   kde-wallpapers-15.08.0.tar.xz: a44e3abef23c3d7a2637b33d883cd552a871bd8b
+sources:
+  kde-wallpapers-15.08.1.tar.xz: d852d68ff4d22e1d67c279a0dde25a218b11a62a
