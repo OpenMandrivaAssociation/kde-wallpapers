@@ -1,6 +1,6 @@
 Summary:	Additional official wallpapers for KDE4
 Name:		kde-wallpapers
-Version:	15.08.1
+Version:	15.08.2
 Release:	1
 Epoch:		2
 Group:		Graphical desktop/KDE
