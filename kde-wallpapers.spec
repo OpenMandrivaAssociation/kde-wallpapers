@@ -5,7 +5,7 @@ Release:	1
 Epoch:		2
 Group:		Graphical desktop/KDE
 License:	LGPLv3
-Url:		http://www.kde.org/
+Url:		https://www.kde.org/
 Source:		http://download.kde.org/stable/applications/%{version}/src/%{name}-%{version}.tar.xz
 BuildRequires:	kdelibs-devel
 BuildRequires:	automoc4
