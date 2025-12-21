@@ -7,6 +7,7 @@ Group:		Graphical desktop/KDE
 License:	LGPLv3
 Url:		https://www.kde.org/
 Source:		http://download.kde.org/stable/applications/%{version}/src/%{name}-%{version}.tar.xz
+BuildRequires:	make
 BuildRequires:	kdelibs-devel
 BuildRequires:	automoc4
 Conflicts:	kdebase4-workspace < 2:4.6.90
